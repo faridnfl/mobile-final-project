@@ -1,14 +1,14 @@
-#Thu Dec 14 20:33:33 SGT 2023
-base.0=D\:\\Kuliah\\Semester5\\Tugas\\PemrogramanMobile\\D121211012FaridNaufalAfiq\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
-base.1=D\:\\Kuliah\\Semester5\\Tugas\\PemrogramanMobile\\D121211012FaridNaufalAfiq\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
-base.2=D\:\\Kuliah\\Semester5\\Tugas\\PemrogramanMobile\\D121211012FaridNaufalAfiq\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\13\\classes.dex
-base.3=D\:\\Kuliah\\Semester5\\Tugas\\PemrogramanMobile\\D121211012FaridNaufalAfiq\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\2\\classes.dex
-base.4=D\:\\Kuliah\\Semester5\\Tugas\\PemrogramanMobile\\D121211012FaridNaufalAfiq\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\3\\classes.dex
-base.5=D\:\\Kuliah\\Semester5\\Tugas\\PemrogramanMobile\\D121211012FaridNaufalAfiq\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\5\\classes.dex
-base.6=D\:\\Kuliah\\Semester5\\Tugas\\PemrogramanMobile\\D121211012FaridNaufalAfiq\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\6\\classes.dex
-base.7=D\:\\Kuliah\\Semester5\\Tugas\\PemrogramanMobile\\D121211012FaridNaufalAfiq\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\7\\classes.dex
-base.8=D\:\\Kuliah\\Semester5\\Tugas\\PemrogramanMobile\\D121211012FaridNaufalAfiq\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\9\\classes.dex
-base.9=D\:\\Kuliah\\Semester5\\Tugas\\PemrogramanMobile\\D121211012FaridNaufalAfiq\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
+#Thu Dec 14 22:15:33 SGT 2023
+base.0=D\:\\Kuliah\\Semester5\\Tugas\\PemrogramanMobile\\mobile-final-project\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=D\:\\Kuliah\\Semester5\\Tugas\\PemrogramanMobile\\mobile-final-project\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.2=D\:\\Kuliah\\Semester5\\Tugas\\PemrogramanMobile\\mobile-final-project\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\13\\classes.dex
+base.3=D\:\\Kuliah\\Semester5\\Tugas\\PemrogramanMobile\\mobile-final-project\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\2\\classes.dex
+base.4=D\:\\Kuliah\\Semester5\\Tugas\\PemrogramanMobile\\mobile-final-project\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\3\\classes.dex
+base.5=D\:\\Kuliah\\Semester5\\Tugas\\PemrogramanMobile\\mobile-final-project\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\5\\classes.dex
+base.6=D\:\\Kuliah\\Semester5\\Tugas\\PemrogramanMobile\\mobile-final-project\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\6\\classes.dex
+base.7=D\:\\Kuliah\\Semester5\\Tugas\\PemrogramanMobile\\mobile-final-project\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\7\\classes.dex
+base.8=D\:\\Kuliah\\Semester5\\Tugas\\PemrogramanMobile\\mobile-final-project\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\9\\classes.dex
+base.9=D\:\\Kuliah\\Semester5\\Tugas\\PemrogramanMobile\\mobile-final-project\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
 path.0=classes.dex
 path.1=0/classes.dex
 path.2=13/classes.dex
