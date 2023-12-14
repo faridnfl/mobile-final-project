@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.D121211012.myanimelist.app-mergeDebugResources-47:/values-v23/values-v23.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ASUS-ROG\\.gradle\\caches\\transforms-3\\6c9220ae5d0422a69952f8d32a36675a\\transformed\\cardview-1.0.0\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "200"
+                    }
+                }
+            ]
+        }
+    ]
+}
